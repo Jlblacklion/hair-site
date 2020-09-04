@@ -182,7 +182,10 @@ h2 {
       border-radius: 40px;
       color: #fefefe;
       padding: 10px 0;
-      margin-top: 20px; }
+      margin-top: 20px; 
+      font-size: 22px;
+      font-family: "PT-Sans-Bold";
+    }
     @media (max-width: 991px) {
       .contact-pop .content {
         padding: 20px 20px 20px 25px; }
@@ -749,7 +752,9 @@ footer {
       width: 140px;
       padding: 13px 0;
       font-size: 15px;
-      color: #fff;
+      color: #ffffff;
+      font-size: 22px;
+      font-family: "PT-Sans-Bold";
       border: none;
       border-radius: 40px;
       margin: 0 auto;
