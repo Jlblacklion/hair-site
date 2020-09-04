@@ -752,7 +752,7 @@ footer {
       display: block;
       cursor: pointer; }
       footer .contact-form button:hover, footer .contact-form button:visited {
-        background: #b90b50; }
+        background: #c12dc3; }
   footer .copy {
     background: #282526;
     text-align: center; }
@@ -763,7 +763,7 @@ footer {
       transition: 0.3s ease;
       text-decoration: none; }
       footer .copy a:hover {
-        color: #e90e65; }
+        color: #c12dc3; }
   @media (max-width: 1199px) {
     footer .contact-form {
       margin: 50px auto; } }
