@@ -676,7 +676,11 @@ h2 {
     border-color: #c12dc3;
     width: 120px;
     padding: 5px 0;
-    border-radius: 40px; }
+    border-radius: 40px; 
+    color: #ffffff;
+    font-size: 22px;
+    font-family: "PT-Sans-Bold";
+  }
     .twit-box a:hover, .twit-box a:visited {
       background-color: #c12dc3; }
   .twit-box::before {
@@ -750,9 +754,13 @@ footer {
       border-radius: 40px;
       margin: 0 auto;
       display: block;
-      cursor: pointer; }
+      cursor: pointer; 
+      box-shadow: 0 0 0 0;
+      border: 0 none;
+      outline: 0;
+    }
       footer .contact-form button:hover, footer .contact-form button:visited {
-        background: #c12dc3; }
+        background: #b90b50; }
   footer .copy {
     background: #282526;
     text-align: center; }
@@ -763,7 +771,7 @@ footer {
       transition: 0.3s ease;
       text-decoration: none; }
       footer .copy a:hover {
-        color: #c12dc3; }
+        color: #e90e65; }
   @media (max-width: 1199px) {
     footer .contact-form {
       margin: 50px auto; } }
