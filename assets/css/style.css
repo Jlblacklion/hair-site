@@ -666,25 +666,25 @@ h2 {
   padding: 60px 30px 30px 30px; }
   .twit-box .media-body h5 {
     font-size: 22px;
-    color: #03a9f4; }
+    color: #c12dc3; }
   .twit-box .media-body p {
     color: #a1a0a1; }
   .twit-box p {
     color: #666666; }
   .twit-box a {
-    background-color: #03a9f4;
-    border-color: #03a9f4;
+    background-color: #c12dc3;
+    border-color: #c12dc3;
     width: 120px;
     padding: 5px 0;
     border-radius: 40px; }
     .twit-box a:hover, .twit-box a:visited {
-      background-color: #0286c2; }
+      background-color: #c12dc3; }
   .twit-box::before {
     content: "";
     position: absolute;
     width: 70px;
     height: 57px;
-    background: url(../img/twitter-logo.png);
+    background: url(../img/instagram.png);
     margin-left: -55px;
     top: -20px; }
 
@@ -781,7 +781,7 @@ footer {
 
 /* Blog page style */
 .fh5co-blog-content {
-  background-image: url(../img/girl2.jpg);
+  background-image: url(../img/fundo1.jpg);
   background-position: right bottom;
   background-repeat: no-repeat;
   background-size: cover; }
@@ -797,7 +797,7 @@ footer {
 
 .blog-content-inner {
   background-color: #f2d5d7;
-  background-color: #e90e65;
+  background-color: #c12dc3;
   padding: 70px;
   border-radius: 15px; }
   .blog-content-inner .card-title {
